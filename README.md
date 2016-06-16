@@ -32,5 +32,5 @@ Apache-2.0 © [nik kyriakidis]()
 [npm-url]: https://npmjs.org/package/generator-wordsmith-theme
 [travis-image]: https://travis-ci.org/nk2580/WordSmith-Theme.svg?branch=master
 [travis-url]: https://travis-ci.org/nk2580/WordSmith-Theme
-[daviddm-image]: https://david-dm.org/nk2580/generator-wordsmith-theme.svg?theme=shields.io
-[daviddm-url]: https://david-dm.org/nk2580/generator-wordsmith-theme
+[daviddm-image]: https://david-dm.org/nk2580/WordSmith-Theme.svg?theme=shields.io
+[daviddm-url]: https://david-dm.org/nk2580/WordSmith-Theme
