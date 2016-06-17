@@ -11,5 +11,8 @@
     "minimum-stability": "dev",
     "require": {
         "xiaoler/blade": "0.2.2"
+    },
+        "config": {
+        "vendor-dir": "Vendor"
     }
 }

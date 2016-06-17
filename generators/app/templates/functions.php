@@ -8,7 +8,7 @@
  * 
  */
 //include composer
-require_once 'vendor/autoload.php';
+require_once 'Vendor/autoload.php';
 include_once( ABSPATH . 'wp-admin/includes/plugin.php' );
 if (is_plugin_active('WordSmith/Wordsmith.php')) {
     require_once ABSPATH.'wp-content/plugins/WordSmith/Wordsmith.php';

@@ -26,7 +26,7 @@ class Instance {
     public static $ASSET_DIR;
 
     public static function init($dir, $uri) {
-        require_once 'vendor/autoload.php';
+        require_once 'Vendor/autoload.php';
         self::$dir = $dir;
         self::$uri = $uri;
         $config = include self::$dir . "/wordsmith.php";
